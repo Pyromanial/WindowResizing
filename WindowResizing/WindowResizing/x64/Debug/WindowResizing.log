@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(155,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(155,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(156,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(156,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(156,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyrou\source\repos\WindowResizing\Main.cpp(156,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  WindowResizing.vcxproj -> C:\Users\kyrou\source\repos\WindowResizing\x64\Debug\WindowResizing.exe
