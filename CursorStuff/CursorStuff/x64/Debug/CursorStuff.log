@@ -1,5 +1,0 @@
-﻿  Main.cpp
-C:\Users\kyrou\source\repos\CursorStuff\Main.cpp(126,5): warning C4804: '*=': unsafe use of type 'bool' in operation
-  UniTexture.cpp
-  Generating Code...
-  CursorStuff.vcxproj -> C:\Users\kyrou\source\repos\CursorStuff\x64\Debug\CursorStuff.exe
